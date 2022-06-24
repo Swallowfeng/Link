@@ -1,6 +1,6 @@
 ### 友链数据源
 
-前端页面： https://blog.ssykawa.com/link
+前端页面： https://blog.ssyc.top/link
 
 ### 什么类型的网站可以添加
 
